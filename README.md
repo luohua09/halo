@@ -1,4 +1,4 @@
-![Halo-logo](/halo-docs/logo/logo.png)
+![Halo-logo](https://halo.xujin.org/img/halo/docs/logo.png)
 ================
 [![Build Status](https://api.travis-ci.org/softwareking/halo.svg?branch=master)](https://api.travis-ci.org/softwareking/halo)
 [![GitHub release](https://img.shields.io/github/release/ctripcorp/apollo.svg)](https://github.com/softwareking/halo/releases)
